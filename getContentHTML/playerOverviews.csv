@@ -1,0 +1,590 @@
+,Name,Position,Club,Nation,Age,Height,Weight
+0,Bernd Leno,Goalkeeper,Arsenal,Germany,29,190cm,83kg
+1,Arthur Okonkwo,Goalkeeper,Arsenal,England,20,198cm,
+2,Karl Hein,Goalkeeper,Arsenal,Estonia,19,193cm,
+3,Aaron Ramsdale,Goalkeeper,Arsenal,England,23,188cm,77kg
+4,Kieran Tierney,Defender,Arsenal,Scotland,24,178cm,70kg
+5,Gabriel Magalhães,Defender,Arsenal,Brazil,23,190cm,78kg
+6,Rob Holding,Defender,Arsenal,England,26,189cm,75kg
+7,Cédric Soares,Defender,Arsenal,Portugal,30,172cm,67kg
+8,Calum Chambers,Defender,Arsenal,England,26,182cm,66kg
+9,Pablo Marí,Defender,Arsenal,Spain,28,193cm,87kg
+10,Sead Kolasinac,Defender,Arsenal,Bosnia & Herzegovina,28,183cm,85kg
+11,Nuno Tavares,Defender,Arsenal,Portugal,21,183cm,75kg
+12,Ben White,Defender,Arsenal,England,23,182cm,78kg
+13,Takehiro Tomiyasu,Defender,Arsenal,Japan,22,188cm,70kg
+14,Bukayo Saka,Midfielder,Arsenal,England,20,178cm,65kg
+15,Thomas Partey,Midfielder,Arsenal,Ghana,28,185cm,77kg
+16,Mohamed Elneny,Midfielder,Arsenal,Egypt,29,180cm,70kg
+17,Emile Smith Rowe,Midfielder,Arsenal,England,21,182cm,79kg
+18,Granit Xhaka,Midfielder,Arsenal,Switzerland,28,185cm,82kg
+19,Ainsley Maitland-Niles,Midfielder,Arsenal,England,24,177cm,71kg
+20,Albert Sambi Lokonga,Midfielder,Arsenal,Belgium,21,173cm,67kg
+21,Martin Ødegaard,Midfielder,Arsenal,Norway,22,178cm,68kg
+22,Alexandre Lacazette,Forward,Arsenal,France,30,175cm,73kg
+23,Pierre-Emerick Aubameyang,Forward,Arsenal,Gabon,32,187cm,80kg
+24,Nicolas Pépé,Forward,Arsenal,Cote D’Ivoire,26,183cm,73kg
+25,Eddie Nketiah,Forward,Arsenal,England,22,175cm,72kg
+26,Gabriel Martinelli,Forward,Arsenal,Brazil,20,178cm,75kg
+27,Folarin Balogun,Forward,Arsenal,England,20,178cm,66kg
+28,Jed Steer,Goalkeeper,Aston Villa,England,29,183cm,80kg
+29,Emiliano Martínez,Goalkeeper,Aston Villa,Argentina,29,195cm,88kg
+30,Viljami Sinisalo,Goalkeeper,Aston Villa,Finland,19,,
+31,Matthew Cash,Defender,Aston Villa,England,24,185cm,
+32,Ezri Konsa,Defender,Aston Villa,England,23,183cm,77kg
+33,Tyrone Mings,Defender,Aston Villa,England,28,196cm,77kg
+34,Matt Targett,Defender,Aston Villa,England,26,183cm,70kg
+35,Kortney Hause,Defender,Aston Villa,England,26,191cm,77kg
+36,Ashley Young,Defender,Aston Villa,England,36,175cm,65kg
+37,Axel Tuanzebe,Defender,Aston Villa  (Loan),England,23,186cm,75kg
+38,Axel Tuanzebe,Defender,Aston Villa  (Loan),England,23,186cm,75kg
+39,Sil Swinkels,Defender,Aston Villa,Netherlands,17,,
+40,Douglas Luiz,Midfielder,Aston Villa,Brazil,23,175cm,66kg
+41,John McGinn,Midfielder,Aston Villa,Scotland,26,178cm,68kg
+42,Trézéguet,Midfielder,Aston Villa,Egypt,26,180cm,71kg
+43,Marvelous Nakamba,Midfielder,Aston Villa,Zimbabwe,27,178cm,71kg
+44,Anwar El Ghazi,Midfielder,Aston Villa,Netherlands,26,188cm,90kg
+45,Morgan Sanson,Midfielder,Aston Villa,France,27,180cm,73kg
+46,Jacob Ramsey,Midfielder,Aston Villa,England,20,,
+47,Emiliano Buendía,Midfielder,Aston Villa,Argentina,24,172cm,72kg
+48,Jaden Philogene-Bidace,Midfielder,Aston Villa,England,19,,
+49,Carney Chukwuemeka,Midfielder,Aston Villa,England,17,,
+50,Aaron Ramsey,Midfielder,Aston Villa,England,18,,
+51,Lamare Bogarde,Midfielder,Aston Villa,Netherlands,17,,
+52,Hayden Lindley,Midfielder,Aston Villa,England,19,,
+53,Ollie Watkins,Forward,Aston Villa,England,25,180cm,70kg
+54,Bertrand Traoré,Forward,Aston Villa,Burkina Faso,26,181cm,73kg
+55,Keinan Davis,Forward,Aston Villa,England,23,191cm,68kg
+56,Leon Bailey,Forward,Aston Villa,Jamaica,24,178cm,77kg
+57,Danny Ings,Forward,Aston Villa,England,29,178cm,73kg
+58,Caleb Chukwuemeka,Forward,Aston Villa,England,19,,
+59,Cameron Archer,Forward,Aston Villa,England,19,,
+60,David Raya,Goalkeeper,Brentford,Spain,26,183cm,80kg
+61,Álvaro Fernández,Goalkeeper,Brentford,Spain,23,185cm,75kg
+62,Rico Henry,Defender,Brentford,England,24,170cm,67kg
+63,Charlie Goode,Defender,Brentford,England,26,196cm,89kg
+64,Ethan Pinnock,Defender,Brentford,Jamaica,28,187cm,79kg
+65,Pontus Jansson,Defender,Brentford,Sweden,30,194cm,89kg
+66,Mads Bech Sørensen,Defender,Brentford,Denmark,22,189cm,92kg
+67,Mads Roerslev,Defender,Brentford,Denmark,22,184cm,77kg
+68,Dominic Thompson,Defender,Brentford,England,21,,
+69,Julian Jeanvier,Defender,Brentford,Guinea,29,185cm,84kg
+70,Luka Racic,Defender,Brentford,Denmark,22,,
+71,Finley Stevens,Defender,Brentford,Wales,18,,
+72,Lewis Gordon,Defender,Brentford,England,20,,
+73,Kristoffer Ajer,Defender,Brentford,Norway,23,196cm,84kg
+74,Zanka,Defender,Brentford,Denmark,31,191cm,79kg
+75,Christian Nørgaard,Midfielder,Brentford,Denmark,27,187cm,76kg
+76,Mathias Jensen,Midfielder,Brentford,Denmark,25,180cm,68kg
+77,Josh Dasilva,Midfielder,Brentford,England,22,184cm,75kg
+78,Bryan Mbeumo,Midfielder,Brentford,France,22,171cm,
+79,Tariqe Fosu-Henry,Midfielder,Brentford,Ghana,25,180cm,75kg
+80,Shandon Baptiste,Midfielder,Brentford,Grenada,23,175cm,71kg
+81,Vitaly Janelt,Midfielder,Brentford,Germany,23,184cm,79kg
+82,Jan Zamburek,Midfielder,Brentford,Czech Republic,20,,
+83,Mads Bidstrup,Midfielder,Brentford,Denmark,20,,
+84,Maxwell Haygarth,Midfielder,Brentford,England,19,,
+85,Frank Onyeka,Midfielder,Brentford,Nigeria,23,183cm,
+86,Myles Peart-Harris,Midfielder,Brentford,England,19,,
+87,Yoane Wissa,Midfielder,Brentford,DR Congo,25,176cm,74kg
+88,Sergi Canós,Forward,Brentford,Spain,24,177cm,75kg
+89,Marcus Forss,Forward,Brentford,Finland,22,182cm,76kg
+90,Ivan Toney,Forward,Brentford,England,25,179cm,70kg
+91,Saman Ghoddos,Forward,Brentford,Iran,28,176cm,75kg
+92,Jason Steele,Goalkeeper,Brighton,England,31,188cm,79kg
+93,Robert Sánchez,Goalkeeper,Brighton,Spain,23,197cm,90kg
+94,Kjell Scherpen,Goalkeeper,Brighton,Netherlands,21,202cm,85kg
+95,Thomas McGill,Goalkeeper,Brighton,England,21,,
+96,Tariq Lamptey,Defender,Brighton,England,20,,
+97,Adam Webster,Defender,Brighton,England,26,191cm,75kg
+98,Lewis Dunk,Defender,Brighton,England,29,192cm,88kg
+99,Dan Burn,Defender,Brighton,England,29,198cm,87kg
+100,Joël Veltman,Defender,Brighton,Netherlands,29,184cm,75kg
+101,Shane Duffy,Defender,Brighton,Ireland,29,193cm,76kg
+102,Haydon Roberts,Defender,Brighton,England,19,,
+103,James Furlong,Defender,Brighton,Ireland,19,,
+104,Odeluga Offiah,Defender,Brighton,England,18,,
+105,Antef Tsoungui,Defender,Brighton,England,18,,
+106,Marc Cucurella,Defender,Brighton,Spain,23,172cm,66kg
+107,Tudor Baluta,Defender,Brighton,Romania,22,192cm,80kg
+108,Ed Turns,Defender,Brighton,England,18,,
+109,Yves Bissouma,Midfielder,Brighton,Mali,25,182cm,80kg
+110,Alexis Mac Allister,Midfielder,Brighton,Argentina,22,176cm,72kg
+111,Pascal Groß,Midfielder,Brighton,Germany,30,181cm,78kg
+112,Adam Lallana,Midfielder,Brighton,England,33,172cm,73kg
+113,Jakub Moder,Midfielder,Brighton,Poland,22,188cm,78kg
+114,Steven Alzate,Midfielder,Brighton,Colombia,23,180cm,75kg
+115,Solly March,Midfielder,Brighton,England,27,180cm,88kg
+116,Enock Mwepu,Midfielder,Brighton,Zambia,23,184cm,76kg
+117,Taylor Richards,Midfielder,Brighton,England,20,180cm,
+118,Marc Leonard,Midfielder,Brighton,Scotland,19,,
+119,Andrew Moran,Midfielder,Brighton,Ireland,17,,
+120,Aaron Connolly,Forward,Brighton,Ireland,21,,
+121,Neal Maupay,Forward,Brighton,France,25,173cm,69kg
+122,Leandro Trossard,Forward,Brighton,Belgium,26,171cm,61kg
+123,Danny Welbeck,Forward,Brighton,England,30,185cm,73kg
+124,Evan Ferguson,Forward,Brighton,Ireland,16,,
+125,Jürgen Locadia,Forward,Brighton,Netherlands,27,187cm,88kg
+126,Jeremy Sarmiento,Forward,Brighton,England,19,,
+127,Nick Pope,Goalkeeper,Burnley,England,29,191cm,76kg
+128,Will Norris,Goalkeeper,Burnley,England,28,195cm,74kg
+129,Wayne Hennessey,Goalkeeper,Burnley,Wales,34,198cm,90kg
+130,Matthew Lowton,Defender,Burnley,England,32,180cm,78kg
+131,Charlie Taylor,Defender,Burnley,England,28,176cm,70kg
+132,James Tarkowski,Defender,Burnley,England,28,185cm,81kg
+133,Ben Mee,Defender,Burnley,England,32,180cm,74kg
+134,Erik Pieters,Defender,Burnley,Netherlands,33,183cm,84kg
+135,Phil Bardsley,Defender,Burnley,Scotland,36,180cm,74kg
+136,Kevin Long,Defender,Burnley,Ireland,31,188cm,83kg
+137,Nathan Collins,Defender,Burnley,Ireland,20,193cm,
+138,Bobby Thomas,Defender,Burnley,England,20,,
+139,Owen Dodgson,Defender,Burnley,England,18,,
+140,Maxwel Cornet,Defender,Burnley,Cote D’Ivoire,24,179cm,69kg
+141,Connor Roberts,Defender,Burnley,Wales,26,175cm,71kg
+142,Jack Cork,Midfielder,Burnley,England,32,183cm,70kg
+143,Jóhann Gudmundsson,Midfielder,Burnley,Iceland,30,186cm,78kg
+144,Josh Brownhill,Midfielder,Burnley,England,25,180cm,69kg
+145,Dwight McNeil,Midfielder,Burnley,England,21,183cm,68kg
+146,Dale Stephens,Midfielder,Burnley,England,32,169cm,71kg
+147,Ashley Westwood,Midfielder,Burnley,England,31,175cm,80kg
+148,Lewis Richardson,Midfielder,Burnley,England,18,,
+149,Aaron Lennon,Midfielder,Burnley,England,34,165cm,63kg
+150,Chris Wood,Forward,Burnley,New Zealand,29,191cm,81kg
+151,Ashley Barnes,Forward,Burnley,England,31,186cm,77kg
+152,Jay Rodriguez,Forward,Burnley,England,32,185cm,84kg
+153,Matej Vydra,Forward,Burnley,Czech Republic,29,180cm,71kg
+154,Kepa Arrizabalaga,Goalkeeper,Chelsea,Spain,26,189cm,84kg
+155,Édouard Mendy,Goalkeeper,Chelsea,Senegal,29,197cm,86kg
+156,Marcus Bettinelli,Goalkeeper,Chelsea,England,29,194cm,82kg
+157,Lucas Bergstrom,Goalkeeper,Chelsea,Finland,19,,
+158,Antonio Rüdiger,Defender,Chelsea,Germany,28,190cm,85kg
+159,Marcos Alonso,Defender,Chelsea,Spain,30,188cm,84kg
+160,Andreas Christensen,Defender,Chelsea,Denmark,25,187cm,82kg
+161,Thiago Silva,Defender,Chelsea,Brazil,37,183cm,79kg
+162,Ben Chilwell,Defender,Chelsea,England,24,178cm,77kg
+163,Reece James,Defender,Chelsea,England,21,182cm,82kg
+164,César Azpilicueta,Defender,Chelsea,Spain,32,178cm,76kg
+165,Trevoh Chalobah,Defender,Chelsea,England,22,190cm,75kg
+166,Malang Sarr,Defender,Chelsea,France,22,182cm,73kg
+167,Xavier Mbuyamba,Defender,Chelsea,Netherlands,19,,
+168,Jorginho,Midfielder,Chelsea,Italy,29,180cm,65kg
+169,N'Golo Kanté,Midfielder,Chelsea,France,30,168cm,68kg
+170,Christian Pulisic,Midfielder,Chelsea,United States,23,172cm,69kg
+171,Mateo Kovacic,Midfielder,Chelsea,Croatia,27,178cm,78kg
+172,Mason Mount,Midfielder,Chelsea,England,22,178cm,70kg
+173,Hakim Ziyech,Midfielder,Chelsea,Morocco,28,180cm,65kg
+174,Kai Havertz,Midfielder,Chelsea,Germany,22,188cm,83kg
+175,Ruben Loftus-Cheek,Midfielder,Chelsea,England,25,191cm,88kg
+176,Saúl Ñíguez,Midfielder,Chelsea  (Loan),Spain,26,184cm,76kg
+177,Ross Barkley,Midfielder,Aston Villa  (Loan),England,27,189cm,76kg
+178,Timo Werner,Forward,Chelsea,Germany,25,180cm,75kg
+179,Callum Hudson-Odoi,Forward,Chelsea,England,20,182cm,76kg
+180,Romelu Lukaku,Forward,Chelsea,Belgium,28,190cm,93kg
+181,Jack Butland,Goalkeeper,Crystal Palace,England,28,196cm,95kg
+182,Vicente Guaita,Goalkeeper,Crystal Palace,Spain,34,190cm,81kg
+183,Remi Matthews,Goalkeeper,Crystal Palace,England,27,184cm,78kg
+184,Joel Ward,Defender,Crystal Palace,England,31,188cm,83kg
+185,James Tomkins,Defender,Crystal Palace,England,32,192cm,74kg
+186,Nathaniel Clyne,Defender,Crystal Palace,England,30,175cm,67kg
+187,Tyrick Mitchell,Defender,Crystal Palace,England,22,,
+188,Martin Kelly,Defender,Crystal Palace,England,31,191cm,77kg
+189,Nathan Ferguson,Defender,Crystal Palace,England,20,178cm,74kg
+190,Marc Guéhi,Defender,Crystal Palace,England,21,182cm,82kg
+191,Joachim Andersen,Defender,Crystal Palace,Denmark,25,192cm,90kg
+192,Reece Hannam,Defender,Crystal Palace,England,21,,
+193,Luka Milivojevic,Midfielder,Crystal Palace,Serbia,30,186cm,80kg
+194,Cheikhou Kouyaté,Midfielder,Crystal Palace,Senegal,31,189cm,83kg
+195,Jeffrey Schlupp,Midfielder,Crystal Palace,Ghana,28,178cm,72kg
+196,James McArthur,Midfielder,Crystal Palace,Scotland,33,178cm,75kg
+197,Eberechi Eze,Midfielder,Crystal Palace,England,23,,
+198,Jairo Riedewald,Midfielder,Crystal Palace,Netherlands,25,182cm,79kg
+199,Michael Olise,Midfielder,Crystal Palace,France,19,176cm,
+200,Conor Gallagher,Midfielder,Crystal Palace  (Loan),England,21,182cm,
+201,Jesurun Rak-Sakyi,Midfielder,Crystal Palace,England,18,,
+202,Will Hughes,Midfielder,Crystal Palace,England,26,185cm,74kg
+203,Jordan Ayew,Forward,Crystal Palace,Ghana,30,182cm,80kg
+204,Wilfried Zaha,Forward,Crystal Palace,Cote D’Ivoire,28,180cm,66kg
+205,Jean-Philippe Mateta,Forward,Crystal Palace  (Loan),France,24,192cm,88kg
+206,Christian Benteke,Forward,Crystal Palace,Belgium,30,190cm,83kg
+207,Robert Street,Forward,Crystal Palace,England,19,,
+208,Scott Banks,Forward,Crystal Palace,Scotland,19,,
+209,Odsonne Édouard,Forward,Crystal Palace,France,23,187cm,83kg
+210,Jordan Pickford,Goalkeeper,Everton,England,27,185cm,77kg
+211,Asmir Begovic,Goalkeeper,Everton,Bosnia & Herzegovina,34,199cm,101kg
+212,Andy Lonergan,Goalkeeper,Everton,England,37,192cm,87kg
+213,Mason Holgate,Defender,Everton,England,24,184cm,63kg
+214,Michael Keane,Defender,Everton,England,28,191cm,82kg
+215,Lucas Digne,Defender,Everton,France,28,178cm,74kg
+216,Yerry Mina,Defender,Everton,Colombia,27,195cm,94kg
+217,Ben Godfrey,Defender,Everton,England,23,183cm,74kg
+218,Séamus Coleman,Defender,Everton,Ireland,32,177cm,67kg
+219,Jonjoe Kenny,Defender,Everton,England,24,176cm,67kg
+220,Jarrad Branthwaite,Defender,Everton,England,19,195cm,82kg
+221,Allan,Midfielder,Everton,Brazil,30,173cm,73kg
+222,Fabian Delph,Midfielder,Everton,England,31,174cm,60kg
+223,Gylfi Sigurdsson,Midfielder,Everton,Iceland,32,186cm,79kg
+224,Abdoulaye Doucouré,Midfielder,Everton,France,28,184cm,75kg
+225,André Gomes,Midfielder,Everton,Portugal,28,188cm,84kg
+226,Jean-Philippe Gbamin,Midfielder,Everton,Cote D’Ivoire,25,186cm,83kg
+227,Tom Davies,Midfielder,Everton,England,23,180cm,70kg
+228,Andros Townsend,Midfielder,Everton,England,30,181cm,77kg
+229,Richarlison,Forward,Everton,Brazil,24,184cm,83kg
+230,Dominic Calvert-Lewin,Forward,Everton,England,24,187cm,71kg
+231,Alex Iwobi,Forward,Everton,Nigeria,25,180cm,75kg
+232,Cenk Tosun,Forward,Everton,Turkey,30,183cm,78kg
+233,Demarai Gray,Forward,Everton,England,25,180cm,74kg
+234,Anthony Gordon,Forward,Everton,England,20,,
+235,Salomón Rondón,Forward,Everton,Venezuela,32,186cm,98kg
+236,Ellis Simms,Forward,Everton,England,20,,
+237,Illan Meslier,Goalkeeper,Leeds,France,21,193cm,74kg
+238,Kristoffer Klaesson,Goalkeeper,Leeds,Norway,20,189cm,76kg
+239,Luke Ayling,Defender,Leeds,England,30,185cm,72kg
+240,Robin Koch,Defender,Leeds,Germany,25,192cm,85kg
+241,Liam Cooper,Defender,Leeds,Scotland,30,180cm,73kg
+242,Diego Llorente,Defender,Leeds,Spain,28,186cm,75kg
+243,Pascal Struijk,Defender,Leeds,Netherlands,22,190cm,
+244,Laurens De Bock,Defender,Leeds,Belgium,28,179cm,74kg
+245,Junior Firpo,Defender,Leeds,Spain,25,184cm,78kg
+246,Charlie Cresswell,Defender,Leeds,England,18,,
+247,Cody Drameh,Defender,Leeds,England,19,,
+248,Leo Fuhr Hjelde,Defender,Leeds,Norway,18,,
+249,Adam Forshaw,Midfielder,Leeds,England,29,174cm,71kg
+250,Stuart Dallas,Midfielder,Leeds,Northern Ireland,30,183cm,81kg
+251,Kalvin Phillips,Midfielder,Leeds,England,25,178cm,72kg
+252,Mateusz Klich,Midfielder,Leeds,Poland,31,183cm,84kg
+253,Jamie Shackleton,Midfielder,Leeds,England,21,168cm,65kg
+254,Jack Harrison,Midfielder,Leeds,England,24,175cm,70kg
+255,Crysencio Summerville,Midfielder,Leeds,Netherlands,19,174cm,
+256,Liam McCarron,Midfielder,Leeds,Scotland,20,175cm,
+257,Daniel James,Midfielder,Leeds,Wales,23,171cm,76kg
+258,Stuart McKinstry,Midfielder,Leeds,Scotland,19,,
+259,Nohan Kenneh,Midfielder,Leeds,England,18,,
+260,Patrick Bamford,Forward,Leeds,England,28,185cm,71kg
+261,Tyler Roberts,Forward,Leeds,Wales,22,180cm,75kg
+262,Raphinha,Forward,Leeds,Brazil,24,176cm,68kg
+263,Rodrigo,Forward,Leeds,Spain,30,182cm,77kg
+264,Sam Greenwood,Forward,Leeds,England,19,185cm,
+265,Joe Gelhardt,Forward,Leeds,England,19,175cm,65kg
+266,Kasper Schmeichel,Goalkeeper,Leicester,Denmark,34,189cm,89kg
+267,Danny Ward,Goalkeeper,Leicester,Wales,28,191cm,88kg
+268,Eldin Jakupovic,Goalkeeper,Leicester,Switzerland,36,191cm,85kg
+269,James Justin,Defender,Leicester,England,23,183cm,80kg
+270,Wesley Fofana,Defender,Leicester,France,20,190cm,
+271,Çaglar Söyüncü,Defender,Leicester,Turkey,25,185cm,82kg
+272,Jonny Evans,Defender,Leicester,Northern Ireland,33,188cm,77kg
+273,Daniel Amartey,Defender,Leicester,Ghana,26,186cm,79kg
+274,Ricardo Pereira,Defender,Leicester,Portugal,27,175cm,70kg
+275,Timothy Castagne,Defender,Leicester,Belgium,25,185cm,80kg
+276,Luke Thomas,Defender,Leicester,England,20,,
+277,Filip Benkovic,Defender,Leicester,Croatia,24,194cm,80kg
+278,Ryan Bertrand,Defender,Leicester,England,32,179cm,85kg
+279,Jannik Vestergaard,Defender,Leicester,Denmark,29,199cm,98kg
+280,Vontae Daley-Campbell,Defender,Leicester,England,20,,
+281,Ben Nelson,Defender,Leicester,England,17,,
+282,Youri Tielemans,Midfielder,Leicester,Belgium,24,176cm,72kg
+283,James Maddison,Midfielder,Leicester,England,24,175cm,73kg
+284,Marc Albrighton,Midfielder,Leicester,England,31,175cm,74kg
+285,Harvey Barnes,Midfielder,Leicester,England,23,174cm,66kg
+286,Hamza Choudhury,Midfielder,Leicester,England,23,178cm,64kg
+287,Nampalys Mendy,Midfielder,Leicester,Senegal,29,167cm,73kg
+288,Wilfred Ndidi,Midfielder,Leicester,Nigeria,24,183cm,74kg
+289,Boubakary Soumaré,Midfielder,Leicester,France,22,188cm,70kg
+290,Kiernan Dewsbury-Hall,Midfielder,Leicester,England,23,,
+291,Thanawat Suengchitthawon,Midfielder,Leicester,Thailand,21,,
+292,Jamie Vardy,Forward,Leicester,England,34,179cm,74kg
+293,Kelechi Iheanacho,Forward,Leicester,Nigeria,24,185cm,82kg
+294,Ayoze Pérez,Forward,Leicester,Spain,28,178cm,72kg
+295,Patson Daka,Forward,Leicester,Zambia,22,183cm,71kg
+296,Ademola Lookman,Forward,Leicester  (Loan),England,23,174cm,71kg
+297,Alisson,Goalkeeper,Liverpool,Brazil,28,191cm,91kg
+298,Adrián,Goalkeeper,Liverpool,Spain,34,190cm,80kg
+299,Caoimhin Kelleher,Goalkeeper,Liverpool,Ireland,22,178cm,74kg
+300,Loris Karius,Goalkeeper,Liverpool,Germany,28,189cm,87kg
+301,Virgil van Dijk,Defender,Liverpool,Netherlands,30,193cm,92kg
+302,Joseph Gomez,Defender,Liverpool,England,24,188cm,77kg
+303,Konstantinos Tsimikas,Defender,Liverpool,Greece,25,178cm,77kg
+304,Andrew Robertson,Defender,Liverpool,Scotland,27,178cm,64kg
+305,Joel Matip,Defender,Liverpool,Cameroon,30,195cm,90kg
+306,Nathaniel Phillips,Defender,Liverpool,England,24,190cm,
+307,Trent Alexander-Arnold,Defender,Liverpool,England,22,175cm,69kg
+308,Neco Williams,Defender,Liverpool,Wales,20,183cm,72kg
+309,Ibrahima Konaté,Defender,Liverpool,France,22,194cm,95kg
+310,Fabinho,Midfielder,Liverpool,Brazil,27,188cm,78kg
+311,Thiago,Midfielder,Liverpool,Spain,30,174cm,70kg
+312,James Milner,Midfielder,Liverpool,England,35,175cm,70kg
+313,Naby Keïta,Midfielder,Liverpool,Guinea,26,172cm,64kg
+314,Jordan Henderson,Midfielder,Liverpool,England,31,182cm,67kg
+315,Alex Oxlade-Chamberlain,Midfielder,Liverpool,England,28,180cm,70kg
+316,Curtis Jones,Midfielder,Liverpool,England,20,185cm,75kg
+317,Harvey Elliott,Midfielder,Liverpool,England,18,170cm,
+318,James Balagizi,Midfielder,Liverpool,England,18,,
+319,Tyler Morton,Midfielder,Liverpool,England,18,,
+320,Conor Bradley,Midfielder,Liverpool,Northern Ireland,18,,
+321,Roberto Firmino,Forward,Liverpool,Brazil,29,181cm,76kg
+322,Sadio Mané,Forward,Liverpool,Senegal,29,175cm,69kg
+323,Mohamed Salah,Forward,Liverpool,Egypt,29,175cm,71kg
+324,Diogo Jota,Forward,Liverpool,Portugal,24,178cm,68kg
+325,Divock Origi,Forward,Liverpool,Belgium,26,185cm,75kg
+326,Takumi Minamino,Forward,Liverpool,Japan,26,174cm,68kg
+327,Kaide Gordon,Forward,Liverpool,England,16,,
+328,Zack Steffen,Goalkeeper,Man City,United States,26,191cm,86kg
+329,Ederson,Goalkeeper,Man City,Brazil,28,188cm,86kg
+330,Scott Carson,Goalkeeper,Man City,England,36,190cm,76kg
+331,Cieran Slicker,Goalkeeper,Man City,Scotland,19,,
+332,Kyle Walker,Defender,Man City,England,31,178cm,70kg
+333,Rúben Dias,Defender,Man City,Portugal,24,186cm,76kg
+334,John Stones,Defender,Man City,England,27,188cm,70kg
+335,Nathan Aké,Defender,Man City,Netherlands,26,180cm,75kg
+336,Oleksandr Zinchenko,Defender,Man City,Ukraine,24,175cm,64kg
+337,Aymeric Laporte,Defender,Man City,Spain,27,191cm,86kg
+338,Benjamin Mendy,Defender,Man City,France,27,185cm,85kg
+339,João Cancelo,Defender,Man City,Portugal,27,182cm,74kg
+340,Luke Mbete,Defender,Man City,England,18,,
+341,Joshua Wilson-Esbrand,Defender,Man City,England,18,,
+342,Conrad Egan-Riley,Defender,Man City,England,18,,
+343,Finley Burns,Defender,Man City,England,18,,
+344,Ilkay Gündogan,Midfielder,Man City,Germany,30,180cm,80kg
+345,Rodri,Midfielder,Man City,Spain,25,191cm,82kg
+346,Kevin De Bruyne,Midfielder,Man City,Belgium,30,181cm,68kg
+347,Bernardo Silva,Midfielder,Man City,Portugal,27,173cm,64kg
+348,Fernandinho,Midfielder,Man City,Brazil,36,179cm,67kg
+349,Phil Foden,Midfielder,Man City,England,21,171cm,70kg
+350,Jack Grealish,Midfielder,Man City,England,26,175cm,68kg
+351,Cole Palmer,Midfielder,Man City,England,19,,
+352,Romeo Lavia,Midfielder,Man City,Belgium,17,,
+353,James McAtee,Midfielder,Man City,England,18,,
+354,Raheem Sterling,Forward,Man City,England,26,170cm,69kg
+355,Gabriel Jesus,Forward,Man City,Brazil,24,175cm,73kg
+356,Ferran Torres,Forward,Man City,Spain,21,184cm,77kg
+357,Riyad Mahrez,Forward,Man City,Algeria,30,179cm,67kg
+358,David de Gea,Goalkeeper,Man Utd,Spain,30,192cm,76kg
+359,Dean Henderson,Goalkeeper,Man Utd,England,24,188cm,85kg
+360,Tom Heaton,Goalkeeper,Man Utd,England,35,188cm,85kg
+361,Lee Grant,Goalkeeper,Man Utd,England,38,193cm,83kg
+362,Matej Kovar,Goalkeeper,Man Utd,Czech Republic,21,184cm,77kg
+363,Victor Lindelöf,Defender,Man Utd,Sweden,27,187cm,80kg
+364,Eric Bailly,Defender,Man Utd,Cote D’Ivoire,27,187cm,77kg
+365,Phil Jones,Defender,Man Utd,England,29,180cm,71kg
+366,Harry Maguire,Defender,Man Utd,England,28,194cm,100kg
+367,Luke Shaw,Defender,Man Utd,England,26,185cm,75kg
+368,Alex Telles,Defender,Man Utd,Brazil,28,181cm,71kg
+369,Aaron Wan-Bissaka,Defender,Man Utd,England,23,183cm,72kg
+370,Diogo Dalot,Defender,Man Utd,Portugal,22,183cm,76kg
+371,Teden Mengi,Defender,Man Utd,England,19,183cm,78kg
+372,Raphaël Varane,Defender,Man Utd,France,28,191cm,81kg
+373,Paul Pogba,Midfielder,Man Utd,France,28,191cm,84kg
+374,Fred,Midfielder,Man Utd,Brazil,28,169cm,64kg
+375,Bruno Fernandes,Midfielder,Man Utd,Portugal,27,179cm,69kg
+376,Nemanja Matic,Midfielder,Man Utd,Serbia,33,194cm,85kg
+377,Donny van de Beek,Midfielder,Man Utd,Netherlands,24,184cm,76kg
+378,Scott McTominay,Midfielder,Man Utd,Scotland,24,193cm,88kg
+379,Hannibal Mejbri,Midfielder,Man Utd,Tunisia,18,182cm,
+380,Jesse Lingard,Midfielder,Man Utd,England,28,175cm,62kg
+381,Juan Mata,Midfielder,Man Utd,Spain,33,170cm,63kg
+382,Facundo Pellistri,Midfielder,Man Utd,Uruguay,19,175cm,69kg
+383,Edinson Cavani,Forward,Man Utd,Uruguay,34,184cm,71kg
+384,Anthony Martial,Forward,Man Utd,France,25,181cm,76kg
+385,Marcus Rashford,Forward,Man Utd,England,23,180cm,70kg
+386,Mason Greenwood,Forward,Man Utd,England,19,181cm,70kg
+387,Amad Diallo,Forward,Man Utd,Cote D’Ivoire,19,173cm,72kg
+388,Anthony Elanga,Forward,Man Utd,Sweden,19,178cm,
+389,Shola Shoretire,Forward,Man Utd,England,17,170cm,
+390,Jadon Sancho,Forward,Man Utd,England,21,180cm,76kg
+391,Cristiano Ronaldo,Forward,Man Utd,Portugal,36,187cm,83kg
+392,Martin Dúbravka,Goalkeeper,Newcastle,Slovakia,32,190cm,83kg
+393,Karl Darlow,Goalkeeper,Newcastle,England,30,190cm,88kg
+394,Mark Gillespie,Goalkeeper,Newcastle,England,29,192cm,83kg
+395,Daniel Langley,Goalkeeper,Newcastle,England,20,,
+396,Freddie Woodman,Goalkeeper,Newcastle,England,24,188cm,83kg
+397,Ciaran Clark,Defender,Newcastle,Ireland,31,185cm,88kg
+398,Paul Dummett,Defender,Newcastle,Wales,29,183cm,82kg
+399,Fabian Schär,Defender,Newcastle,Switzerland,29,188cm,84kg
+400,Jamaal Lascelles,Defender,Newcastle,England,27,188cm,89kg
+401,Jamal Lewis,Defender,Newcastle,Northern Ireland,23,178cm,70kg
+402,Emil Krafth,Defender,Newcastle,Sweden,27,184cm,83kg
+403,Federico Fernández,Defender,Newcastle,Argentina,32,190cm,83kg
+404,Javier Manquillo,Defender,Newcastle,Spain,27,178cm,76kg
+405,Jonjo Shelvey,Midfielder,Newcastle,England,29,184cm,80kg
+406,Matt Ritchie,Midfielder,Newcastle,Scotland,32,172cm,76kg
+407,Isaac Hayden,Midfielder,Newcastle,England,26,185cm,79kg
+408,Jeff Hendrick,Midfielder,Newcastle,Ireland,29,185cm,79kg
+409,Ryan Fraser,Midfielder,Newcastle,Scotland,27,163cm,70kg
+410,Jacob Murphy,Midfielder,Newcastle,England,26,179cm,74kg
+411,Miguel Almirón,Midfielder,Newcastle,Paraguay,27,174cm,70kg
+412,Sean Longstaff,Midfielder,Newcastle,England,23,180cm,65kg
+413,Elliot Anderson,Midfielder,Newcastle,England,18,,
+414,Joseph Willock,Midfielder,Newcastle,England,22,179cm,71kg
+415,Joe White,Midfielder,Newcastle,England,18,186cm,
+416,Joelinton,Forward,Newcastle,Brazil,25,186cm,81kg
+417,Allan Saint-Maximin,Forward,Newcastle,France,24,173cm,67kg
+418,Dwight Gayle,Forward,Newcastle,England,31,174cm,78kg
+419,Callum Wilson,Forward,Newcastle,England,29,180cm,66kg
+420,Tim Krul,Goalkeeper,Norwich,Netherlands,33,188cm,84kg
+421,Michael McGovern,Goalkeeper,Norwich,Northern Ireland,37,191cm,89kg
+422,Angus Gunn,Goalkeeper,Norwich,England,25,196cm,77kg
+423,Max Aarons,Defender,Norwich,England,21,178cm,69kg
+424,Sam Byram,Defender,Norwich,England,28,180cm,72kg
+425,Grant Hanley,Defender,Norwich,Scotland,29,187cm,81kg
+426,Christoph Zimmermann,Defender,Norwich,Germany,28,194cm,92kg
+427,Bali Mumba,Defender,Norwich,England,19,,
+428,Andrew Omobamidele,Defender,Norwich,Ireland,19,188cm,
+429,Ben Gibson,Defender,Norwich,England,28,185cm,78kg
+430,Dimitris Giannoulis,Defender,Norwich,Greece,25,175cm,62kg
+431,Brandon Williams,Defender,Norwich  (Loan),England,21,171cm,63kg
+432,Ozan Kabak,Defender,Norwich  (Loan),Turkey,21,186cm,86kg
+433,Lukas Rupp,Midfielder,Norwich,Germany,30,178cm,73kg
+434,Kieran Dowell,Midfielder,Norwich,England,23,175cm,70kg
+435,Przemyslaw Placheta,Midfielder,Norwich,Poland,23,177cm,72kg
+436,Todd Cantwell,Midfielder,Norwich,England,23,177cm,70kg
+437,Jacob Sørensen,Midfielder,Norwich,Denmark,23,,
+438,Kenny McLean,Midfielder,Norwich,Scotland,29,183cm,70kg
+439,Milot Rashica,Midfielder,Norwich,Kosovo,25,177cm,73kg
+440,Billy Gilmour,Midfielder,Norwich  (Loan),Scotland,20,166cm,60kg
+441,Pierre Lees-Melou,Midfielder,Norwich,France,28,185cm,69kg
+442,Mathias Normann,Midfielder,Norwich  (Loan),Norway,25,179cm,75kg
+443,Teemu Pukki,Forward,Norwich,Finland,31,180cm,75kg
+444,Adam Idah,Forward,Norwich,Ireland,20,190cm,83kg
+445,Joshua Sargent,Forward,Norwich,United States,21,185cm,79kg
+446,Christos Tzolis,Forward,Norwich,Greece,19,,
+447,Alex McCarthy,Goalkeeper,Southampton,England,31,193cm,79kg
+448,Harry Lewis,Goalkeeper,Southampton,England,23,191cm,77kg
+449,Fraser Forster,Goalkeeper,Southampton,England,33,201cm,93kg
+450,Kyle Walker-Peters,Defender,Southampton,England,24,173cm,62kg
+451,Jack Stephens,Defender,Southampton,England,27,185cm,75kg
+452,Mohammed Salisu,Defender,Southampton,Ghana,22,191cm,82kg
+453,Jan Bednarek,Defender,Lech Poznan,Poland,25,189cm,77kg
+454,Yan Valery,Defender,Southampton,France,22,180cm,85kg
+455,Romain Perraud,Defender,Southampton,France,24,173cm,68kg
+456,Valentino Livramento,Defender,Southampton,England,18,,
+457,Thierry Small,Defender,Southampton,England,17,,
+458,Lyanco,Defender,Southampton,Brazil,24,187cm,85kg
+459,Oriol Romeu,Midfielder,Southampton,Spain,30,183cm,83kg
+460,James Ward-Prowse,Midfielder,Southampton,England,26,173cm,66kg
+461,Nathan Redmond,Midfielder,Southampton,England,27,173cm,69kg
+462,Moussa Djenepo,Midfielder,Southampton,Mali,23,177cm,65kg
+463,Stuart Armstrong,Midfielder,Southampton,Scotland,29,183cm,75kg
+464,William Smallbone,Midfielder,Southampton,Ireland,21,,
+465,Nathan Tella,Midfielder,Southampton,England,22,,
+466,Ibrahima Diallo,Midfielder,Southampton,France,22,179cm,68kg
+467,Mohamed Elyounoussi,Midfielder,Southampton,Norway,27,178cm,70kg
+468,Che Adams,Forward,Southampton,Scotland,25,175cm,70kg
+469,Shane Long,Forward,Southampton,Ireland,34,178cm,81kg
+470,Theo Walcott,Forward,Southampton,England,32,176cm,68kg
+471,Armando Broja,Forward,Southampton  (Loan),Albania,20,191cm,
+472,Adam Armstrong,Forward,Southampton,England,24,172cm,69kg
+473,Hugo Lloris,Goalkeeper,Spurs,France,34,188cm,82kg
+474,Pierluigi Gollini,Goalkeeper,Spurs  (Loan),Italy,26,194cm,94kg
+475,Brandon Austin,Goalkeeper,Spurs,England,22,188cm,82kg
+476,Matt Doherty,Defender,Spurs,Ireland,29,182cm,80kg
+477,Sergio Reguilón,Defender,Spurs,Spain,24,178cm,68kg
+478,Davinson Sánchez,Defender,Spurs,Colombia,25,187cm,81kg
+479,Joe Rodon,Defender,Spurs,Wales,23,180cm,70kg
+480,Japhet Tanganga,Defender,Spurs,England,22,184cm,76kg
+481,Ben Davies,Defender,Spurs,Wales,28,181cm,76kg
+482,Eric Dier,Defender,Spurs,England,27,188cm,88kg
+483,Cristian Romero,Defender,Spurs,Argentina,23,185cm,79kg
+484,Maksim Paskotsi,Defender,Spurs,Estonia,18,,
+485,Kallum Cesay,Defender,Spurs,England,19,,
+486,Brooklyn Lyons-Foster,Defender,Spurs,England,20,,
+487,Emerson Royal,Defender,Spurs,Brazil,22,181cm,79kg
+488,Tobi Omole,Defender,Spurs,England,21,,
+489,Malachi Fagan-Walcott,Defender,Spurs,England,19,,
+490,Pierre-Emile Højbjerg,Midfielder,Spurs,Denmark,26,187cm,84kg
+491,Harry Winks,Midfielder,Spurs,England,25,178cm,65kg
+492,Giovani Lo Celso,Midfielder,Spurs,Argentina,25,177cm,68kg
+493,Dele Alli,Midfielder,Spurs,England,25,188cm,76kg
+494,Tanguy Ndombele,Midfielder,Spurs,France,24,181cm,76kg
+495,Ryan Sessegnon,Midfielder,Spurs,England,21,178cm,70kg
+496,Oliver Skipp,Midfielder,Norwich  (Loan),England,21,175cm,70kg
+497,Harvey White,Midfielder,Spurs,England,20,,
+498,Nile John,Midfielder,Spurs,England,18,,
+499,Matthew Craig,Midfielder,Spurs,Scotland,18,,
+500,Romaine Mundle,Midfielder,Spurs,England,18,,
+501,Son Heung-Min,Forward,Spurs,South Korea,29,183cm,78kg
+502,Harry Kane,Forward,Spurs,England,28,188cm,86kg
+503,Steven Bergwijn,Forward,Spurs,Netherlands,23,178cm,78kg
+504,Lucas Moura,Forward,Spurs,Brazil,29,172cm,72kg
+505,Jack Clarke,Forward,Spurs,England,20,181cm,74kg
+506,Bryan Gil,Forward,Spurs,Spain,20,175cm,60kg
+507,Dane Scarlett,Forward,Spurs,England,17,180cm,76kg
+508,Dilan Markanday,Forward,Spurs,England,20,,
+509,Ben Foster,Goalkeeper,Watford,England,38,193cm,79kg
+510,Daniel Bachmann,Goalkeeper,Watford,Austria,27,191cm,81kg
+511,Robert Elliot,Goalkeeper,Watford,Ireland,35,190cm,94kg
+512,Jeremy Ngakia,Defender,Watford,England,21,,
+513,William Troost-Ekong,Defender,Watford,Nigeria,28,191cm,82kg
+514,Adam Masina,Defender,Watford,Morocco,27,189cm,78kg
+515,Craig Cathcart,Defender,Watford,Northern Ireland,32,188cm,73kg
+516,Kiko Femenía,Defender,Watford,Spain,30,176cm,61kg
+517,Christian Kabasele,Defender,Watford,Belgium,30,187cm,84kg
+518,Francisco Sierralta,Defender,Watford,Chile,24,190cm,83kg
+519,Danny Rose,Defender,Watford,England,31,173cm,72kg
+520,James Morris,Defender,Watford,England,19,,
+521,Tom Cleverley,Midfielder,Watford,England,32,175cm,67kg
+522,Ken Sema,Midfielder,Watford,Sweden,27,180cm,69kg
+523,Dan Gosling,Midfielder,Watford,England,31,183cm,79kg
+524,Daniel Phillips,Midfielder,Watford,,,,
+525,Imran Louza,Midfielder,Watford,France,22,178cm,65kg
+526,Ignacio Pussetto,Forward,Watford,Argentina,25,180cm,74kg
+527,Peter Etebo,Midfielder,Watford  (Loan),Nigeria,25,172cm,70kg
+528,Kwadwo Baah,Midfielder,Watford,England,18,,
+529,Juraj Kucka,Midfielder,Watford,Slovakia,34,186cm,86kg
+530,Ozan Tufan,Midfielder,Watford  (Loan),Turkey,26,179cm,70kg
+531,Moussa Sissoko,Midfielder,Watford,France,32,187cm,83kg
+532,João Pedro,Forward,Watford,Brazil,19,182cm,70kg
+533,Ismaila Sarr,Forward,Watford,Senegal,23,185cm,76kg
+534,Emmanuel Dennis,Forward,Watford,Nigeria,23,175cm,67kg
+535,Ashley Fletcher,Forward,Watford,England,25,185cm,78kg
+536,Joshua King,Forward,Watford,Norway,29,180cm,74kg
+537,Cucho Hernández,Forward,Watford,Colombia,22,176cm,73kg
+538,Lukasz Fabianski,Goalkeeper,West Ham,Poland,36,190cm,83kg
+539,David Martin,Goalkeeper,West Ham,England,35,185cm,85kg
+540,Darren Randolph,Goalkeeper,West Ham,Ireland,34,188cm,98kg
+541,Alphonse Areola,Goalkeeper,West Ham  (Loan),France,28,195cm,94kg
+542,Aaron Cresswell,Defender,West Ham,England,31,170cm,66kg
+543,Vladimir Coufal,Defender,West Ham,Czech Republic,29,179cm,76kg
+544,Angelo Ogbonna,Defender,West Ham,Italy,33,191cm,86kg
+545,Issa Diop,Defender,West Ham,France,24,194cm,92kg
+546,Ryan Fredericks,Defender,West Ham,England,28,181cm,74kg
+547,Arthur Masuaku,Defender,West Ham,DR Congo,27,179cm,70kg
+548,Ben Johnson,Defender,West Ham,England,21,175cm,67kg
+549,Craig Dawson,Defender,West Ham,England,31,188cm,82kg
+550,Winston Reid,Defender,Brentford  (Loan),New Zealand,33,190cm,87kg
+551,Jamal Baptiste,Defender,West Ham,England,17,,
+552,Kurt Zouma,Defender,West Ham,France,26,190cm,96kg
+553,Manuel Lanzini,Midfielder,West Ham,Argentina,28,167cm,59kg
+554,Mark Noble,Midfielder,West Ham,England,34,180cm,70kg
+555,Pablo Fornals,Midfielder,West Ham,Spain,25,178cm,67kg
+556,Tomas Soucek,Midfielder,West Ham,Czech Republic,26,192cm,86kg
+557,Declan Rice,Midfielder,West Ham,England,22,185cm,76kg
+558,Nikola Vlasic,Midfielder,West Ham,Croatia,23,178cm,72kg
+559,Alex Král,Midfielder,West Ham  (Loan),Czech Republic,23,185cm,72kg
+560,Andriy Yarmolenko,Forward,West Ham,Ukraine,31,189cm,81kg
+561,Saïd Benrahma,Forward,West Ham,Algeria,26,172cm,67kg
+562,Jarrod Bowen,Forward,West Ham,England,24,175cm,70kg
+563,Michail Antonio,Forward,West Ham,Jamaica,31,180cm,82kg
+564,John Ruddy,Goalkeeper,Wolves,England,34,193cm,97kg
+565,José Sá,Goalkeeper,Wolves,Portugal,28,192cm,84kg
+566,Louie Moulden,Goalkeeper,Wolves,England,19,,
+567,Ki-Jana Hoever,Defender,Wolves,Netherlands,19,180cm,65kg
+568,Marçal,Defender,Wolves,Brazil,32,178cm,74kg
+569,Willy Boly,Defender,Wolves,Cote D’Ivoire,30,195cm,92kg
+570,Conor Coady,Defender,Wolves,England,28,185cm,73kg
+571,Jonny,Defender,Wolves,Spain,27,175cm,70kg
+572,Nélson Semedo,Defender,Wolves,Portugal,27,177cm,67kg
+573,Maximilian Kilman,Defender,Wolves,England,24,,
+574,Yerson Mosquera,Defender,Wolves,Colombia,20,187cm,76kg
+575,Rayan Aït-Nouri,Defender,Wolves,France,20,179cm,70kg
+576,Rúben Neves,Midfielder,Wolves,Portugal,24,180cm,80kg
+577,Daniel Podence,Midfielder,Wolves,Portugal,25,165cm,58kg
+578,Romain Saïss,Midfielder,Wolves,Morocco,31,190cm,80kg
+579,João Moutinho,Midfielder,Wolves,Portugal,35,170cm,61kg
+580,Leander Dendoncker,Midfielder,Wolves,Belgium,26,188cm,83kg
+581,Luke Cundle,Midfielder,Wolves,England,19,,
+582,Pedro Neto,Forward,Wolves,Portugal,21,172cm,69kg
+583,Raúl Jiménez,Forward,Wolves,Mexico,30,190cm,76kg
+584,Fábio Silva,Forward,Wolves,Portugal,19,185cm,75kg
+585,Adama Traoré,Forward,Wolves,Spain,25,178cm,72kg
+586,Trincão,Forward,Wolves  (Loan),Portugal,21,184cm,70kg
+587,Chem Campbell,Forward,Wolves,Wales,18,,
+588,Hwang Hee-Chan,Forward,Wolves  (Loan),South Korea,25,177cm,77kg
