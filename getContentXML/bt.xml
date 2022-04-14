@@ -1,0 +1,10 @@
+<peopleList>
+	<people id="1" createAt="1649904524">
+		<name>Nguyen Van A</name>
+		<age>23</age>
+	</people>
+	<people id="2" createAt="1649804524">
+		<name>Nguyen Van B</name>
+		<age>20</age>
+	</people>
+</peopleList>`
